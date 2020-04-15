@@ -4,7 +4,7 @@ This little project display something like (game)Doom's fire
 <p>
 After wathcing this video:
 
-### https://www.youtube.com/watch?v=fxm8cadCqbs
+https://www.youtube.com/watch?v=fxm8cadCqbs
 
 I asked my self... Can i make it?
 So... here is the answer... :)
